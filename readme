@@ -1,0 +1,10 @@
+TegnerCodes Debug class.
+
+A debug class whriten in php.
+
+Features:
++ Display a message to the screen.
++ Whrite the same message to a debug.log file.
+
+Example:
++ Example can be found in the example.php file.
